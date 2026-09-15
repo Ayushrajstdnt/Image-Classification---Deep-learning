@@ -52,8 +52,6 @@ The trained model is finally deployed as a web application where users can uploa
 - NumPy
 - Image preprocessing
 
-### Web Application
-- [Add your framework here: Streamlit / Flask]
 
 ### Development Tools
 - Jupyter Notebook
